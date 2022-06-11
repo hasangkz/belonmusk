@@ -1,0 +1,169 @@
+[
+  {
+    "id": 1,
+    "title": "Bugatti Chiron",
+    "price": 2500000,
+    "image": "https://i.pinimg.com/originals/e9/34/ac/e934ac022c9ecf2dadf6954610176627.png"
+  },
+
+  {
+    "id": 2,
+    "title": "Bentley",
+    "price": 100000,
+    "image": "https://www.pngall.com/wp-content/uploads/2016/06/Bentley-Transparent.png"
+  },
+
+  {
+    "id": 3,
+    "title": "Rolls-Royce Ghost",
+    "price": 750000,
+    "image": "https://purepng.com/public/uploads/large/purepng.com-rolls-royce-ghost-black-carcarvehicletransportrolls-royce-961524665160xhovw.png"
+  },
+
+  {
+    "id": 4,
+    "title": "Ferrari",
+    "price": 330000,
+    "image": "https://www.pngmart.com/files/15/Side-Red-Ferrari-Front-View-Transparent-PNG.png"
+  },
+
+  {
+    "id": 5,
+    "title": "Lamborghini",
+    "price": 380000,
+    "image": "https://www.pngmart.com/files/10/Lamborghini-Huracan-Transparent-Background.png"
+  },
+
+  {
+    "id": 6,
+    "title": "The Beverly House",
+    "price": 150000000,
+    "image": "https://www.pngmart.com/files/16/Luxurious-Modern-House-PNG-Transparent-Image.png"
+  },
+
+  {
+    "id": 7,
+    "title": "Steinway & Sons",
+    "price": 2500000,
+    "image": "https://www.pngmart.com/files/1/Piano-With-Transparent-Background-PNG.png"
+  },
+
+  {
+    "id": 8,
+    "title": "Villa Leopolda",
+    "price": 800000000,
+    "image": "https://www.pngmart.com/files/1/House-Transparent-PNG.png"
+  },
+
+  {
+    "id": 9,
+    "title": "History Supreme",
+    "price": 4500000000,
+    "image": "https://www.pngmart.com/files/8/Yacht-PNG-Transparent-File.png"
+  },
+
+  {
+    "id": 10,
+    "title": "Mona Lisa",
+    "price": 900000000,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Stylized_Mona_Lisa.svg/1651px-Stylized_Mona_Lisa.svg.png"
+  },
+
+  {
+    "id": 11,
+    "title": "Space Shuttle",
+    "price": 440000000,
+    "image": "http://assets.stickpng.com/images/585f94c8cb11b227491c3586.png"
+  },
+
+  {
+    "id": 12,
+    "title": "F-16 Jet",
+    "price": 25000000,
+    "image": "https://pngimg.com/uploads/jet_fighter/jet_fighter_PNG46.png"
+  },
+
+  {
+    "id": 13,
+    "title": "Burj Khalifa",
+    "price": 1500000000,
+    "image": "http://assets.stickpng.com/images/5a5765791c992a034569ab5f.png"
+  },
+
+  {
+    "id": 14,
+    "title": "Trip To Mars",
+    "price": 500000,
+    "image": "https://www.freepnglogos.com/uploads/mars-png/mars-transparent-png-stickpng-0.png"
+  },
+
+  {
+    "id": 15,
+    "title": "Cruise Ship",
+    "price": 300000000,
+    "image": "https://i.pinimg.com/originals/fc/35/72/fc357254541c2886a4a8722cbfa9631e.png"
+  },
+
+  {
+    "id": 16,
+    "title": "Apple stock",
+    "price": 138,
+    "image": "https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-history-apple-inc-wikipedia-22.png"
+  },
+
+  {
+    "id": 17,
+    "title": "Amazon stock",
+    "price": 110,
+    "image": "https://www.pngmart.com/files/5/Amazon-PNG-Photos.png"
+  },
+
+  {
+    "id": 18,
+    "title": "Alphabet stock",
+    "price": 2225,
+    "image": "https://download.logo.wine/logo/Alphabet_Inc./Alphabet_Inc.-Logo.wine.png"
+  },
+
+  {
+    "id": 19,
+    "title": "Microsoft stock",
+    "price": 255,
+    "image": "https://www.freepnglogos.com/uploads/microsoft-logo-png-transparent-background-1.png"
+  },
+
+  {
+    "id": 20,
+    "title": "Batchawana Island",
+    "price": 6850000,
+    "image": "https://freepngimg.com/thumb/island/31965-1-island-transparent-background.png"
+  },
+
+  {
+    "id": 21,
+    "title": "CryptoPunk NFT",
+    "price": 23000000,
+    "image": "https://www.thewrap.com/wp-content/uploads/2021/03/4156-300x300.png"
+  },
+
+  {
+    "id": 22,
+    "title": "Whopper",
+    "price": 7,
+    "image": "http://assets.stickpng.com/images/5882488ae81acb96424ffaaf.png"
+  },
+
+  {
+    "id": 23,
+    "title": "Iphone 13",
+    "price": 1300,
+    "image": "http://assets.stickpng.com/images/61d2f85b92b57c0004c64745.png"
+  },
+
+  {
+    "id": 24,
+    "title": "Mac Pro",
+    "price": 6500,
+    "image": "https://cdn.webrazzi.com/uploads/2011/02/macbook-pro.png"
+  }
+]
