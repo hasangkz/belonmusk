@@ -5,7 +5,7 @@ import { Product } from './components/Product';
 import { DisplayBasket } from './components/DisplayBasket';
 import products from './products.json';
 function App() {
-  const [initialMoney] = useState(22000000);
+  const [initialMoney] = useState(220000000000);
   const [basket, setBasket] = useState([]);
   const [aggregate, setAggregate] = useState(0);
 
